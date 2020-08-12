@@ -1,0 +1,173 @@
+/Users/Shared/PyCharmProjects/venv/deeplearning/bin/python /Users/Shared/PyCharmProjects/kc-tfb/nlp-sentiment-analysis.py
+Tamaño del dataset de reviews (804306, 6)
+
+Columas del dataset de reviews Index(['listing_id', 'id', 'date', 'reviewer_id', 'reviewer_name', 'comments'], dtype='object')
+
+Primeros registros del dataset de reviews
+   listing_id     id        date  reviewer_id reviewer_name  \
+0        6369  29428  2010-03-14        84790         Nancy
+1        6369  31018  2010-03-23        84338         David
+2        6369  34694  2010-04-10        98655        Marion
+3        6369  37146  2010-04-21       109871          Kurt
+4        6369  38168  2010-04-26        98901        Dennis
+
+                                            comments
+0  Simon and Arturo have the ultimate location in...
+1  Myself and Kristy originally planned on stayin...
+2  We had a great time at Arturo and Simon's ! A ...
+3  I very much enjoyed the stay.  \r\nIt's a wond...
+4  Arturo and Simon are polite and friendly hosts...
+
+
+El tamaño del dataset de reviews seleccionando solo aquellos que tengan imagen mosaico es (533534, 6)
+Error in Listing_id 531677. Id 518891221. Text 10/10
+Error in Listing_id 600476. Id 363259254. Text ⭐️⭐️⭐️⭐️⭐️
+Error in Listing_id 1194316. Id 23228444. Text 5/5 ;-)
+Error in Listing_id 1302691. Id 9770349. Text !!!!!!!!
+Error in Listing_id 3042518. Id 244271739. Text .....
+Error in Listing_id 3187973. Id 291668350. Text *****
+Error in Listing_id 4066143. Id 495533360. Text 10/10
+Error in Listing_id 4398316. Id 139629814. Text 10/10
+Error in Listing_id 4523822. Id 54545286. Text    00000
+Error in Listing_id 4973451. Id 216166278. Text .....
+Error in Listing_id 5170938. Id 353506171. Text 10/10
+Error in Listing_id 6207137. Id 313473925. Text 11111
+Error in Listing_id 6424341. Id 462588373. Text 10/10
+Error in Listing_id 7722156. Id 578335375. Text 10/10
+Error in Listing_id 8652516. Id 271330245. Text ...............
+Error in Listing_id 9134020. Id 589955512. Text 10/10
+Error in Listing_id 10541138. Id 111684604. Text 10/10
+Error in Listing_id 11079684. Id 141445394. Text *****
+Error in Listing_id 11247624. Id 164929873. Text +++++
+Error in Listing_id 12542712. Id 204663934. Text ......
+Error in Listing_id 12717553. Id 411389051. Text ⭐⭐⭐⭐⭐
+Error in Listing_id 13154435. Id 120156370. Text ______________
+Error in Listing_id 13528325. Id 283586145. Text ⭐️⭐️⭐️⭐️⭐️
+Error in Listing_id 14344774. Id 106419449. Text ---------- ----------- ----------- ----------- ----------
+Error in Listing_id 14344774. Id 582073759. Text 10/10
+Error in Listing_id 14862474. Id 366730499. Text 606490
+Error in Listing_id 15705280. Id 129650074. Text *****
+Error in Listing_id 16283180. Id 285559324. Text 10/10
+Error in Listing_id 16393295. Id 565197296. Text 10/10
+Error in Listing_id 16451687. Id 351916355. Text 10/10
+Error in Listing_id 16487258. Id 237496697. Text ⭐️⭐️⭐️⭐️⭐️⭐️
+Error in Listing_id 17118616. Id 529911021. Text ------------------------
+Error in Listing_id 17182264. Id 145665901. Text .....
+Error in Listing_id 17375880. Id 440892463. Text 10/10
+Error in Listing_id 17454279. Id 269257693. Text 10/10
+Error in Listing_id 17502428. Id 252827399. Text 10/10
+Error in Listing_id 17665429. Id 406061841. Text 100 %
+Error in Listing_id 17677207. Id 321396215. Text ❤️❤️❤️
+Error in Listing_id 18016295. Id 268868123. Text 10/10 :)
+Error in Listing_id 18766894. Id 356778566. Text 5 - 6
+Error in Listing_id 19094004. Id 169988500. Text 10.00
+Error in Listing_id 19361512. Id 617179375. Text 4’5/5
+Error in Listing_id 19474928. Id 263958485. Text ++++++
+Error in Listing_id 19873989. Id 481682305. Text 10/10
+Error in Listing_id 21039039. Id 557096411. Text 10/10
+Error in Listing_id 21131476. Id 422825816. Text 10/10
+Error in Listing_id 21262371. Id 576682102. Text 10-10
+Error in Listing_id 21419399. Id 347449282. Text ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+Error in Listing_id 22206082. Id 416325022. Text 10/10
+Error in Listing_id 26635994. Id 619049476. Text 100/100
+Error in Listing_id 26775195. Id 350755397. Text ⭐️⭐️⭐️⭐️⭐️
+Error in Listing_id 27807431. Id 465673897. Text ❤ ❤ ❤
+Error in Listing_id 28175961. Id 523358335. Text 10/10
+Error in Listing_id 28514134. Id 345548306. Text ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+Error in Listing_id 28683485. Id 583811317. Text ⭐⭐⭐⭐⭐⭐⭐
+Error in Listing_id 28703353. Id 476366350. Text 10/10
+Error in Listing_id 29821766. Id 509858967. Text .......
+Error in Listing_id 30067136. Id 609704367. Text 100****
+Error in Listing_id 30200987. Id 590998426. Text ⭐️⭐️⭐️⭐️
+Error in Listing_id 33097229. Id 567692628. Text ㅈㅣㅂㅇㅣㅅㅏㅈㅣㄴㅇㅡㄹㅗㅂㅗㄴㅡㄴㄱㅓㅂㅗㄷㅏ ㄷㅓ ㅈㅏㄱㅇㅏㅇㅛ ㅇㅠㅇㅡㅣㅎㅏㅅㅔㅇㅛ
+Error in Listing_id 35570849. Id 559496629. Text 10/10
+Error in Listing_id 35615961. Id 568235696. Text 10/10
+Error in Listing_id 36030830. Id 568213345. Text 10/10
+Error in Listing_id 38224204. Id 555805996. Text 10/10
+Error in Listing_id 39940614. Id 582637074. Text ⭐️⭐️⭐️⭐️⭐️
+
+Primeros registros del dataset de reviews    listing_id     id        date  reviewer_id reviewer_name  \
+0        6369  29428  2010-03-14        84790         Nancy
+1        6369  31018  2010-03-23        84338         David
+2        6369  34694  2010-04-10        98655        Marion
+3        6369  37146  2010-04-21       109871          Kurt
+4        6369  38168  2010-04-26        98901        Dennis
+
+                                            comments language
+0  Simon and Arturo have the ultimate location in...       en
+1  Myself and Kristy originally planned on stayin...       en
+2  We had a great time at Arturo and Simon's ! A ...       en
+3  I very much enjoyed the stay.  \r\nIt's a wond...       en
+4  Arturo and Simon are polite and friendly hosts...       en
+Valores diferentes de idiomas
+en       252824
+es       195789
+fr        31477
+pt        11910
+it        11007
+de         6981
+ko         4650
+zh-cn      3438
+ru         2704
+xx         2676
+nl         2487
+ro         1419
+ca         1244
+da          537
+pl          514
+ja          433
+sv          336
+fi          308
+af          292
+so          253
+cs          213
+no          208
+hu          176
+id          175
+tr          170
+sk          168
+tl          150
+el          149
+sl          145
+cy          111
+he          110
+hr           80
+lt           78
+vi           51
+sw           50
+bg           40
+et           39
+zh-tw        38
+ar           38
+uk           35
+mk           13
+lv            7
+th            6
+sq            3
+ur            2
+Name: language, dtype: int64
+Dado que la gran mayoría de los mensajes están en inglés, solo vamos a tener en cuenta
+
+Seleccionamos solo los reviews en inglés
+en    252824
+Name: language, dtype: int64
+
+
+Analizando sentimiento VADER de los comentarios de los reviews en inglés...
+100%|██████████| 252824/252824 [48:44<00:00, 86.44it/s]
+
+Tiempo en segundos utilizado para el análisis de sentimiento de los reviews 2924.9098439216614
+
+
+Creamos un nuevo dataset con la media del sentimiento vader por cada listing
+Dataset resultante
+    listing_id  vader_sentiment
+0        6369         0.954545
+1       21853         1.000000
+2       24836         1.000000
+3       26825         0.961039
+4       30320         0.965909
+Tamaño (8768, 2)
+
+Process finished with exit code 0
+

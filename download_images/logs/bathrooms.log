@@ -1,0 +1,1072 @@
+python.exe download_images.py --urls bathrooms.txt --output images\bathrooms
+[INFO] downloaded: images\bathrooms\00000000.jpg
+[INFO] downloaded: images\bathrooms\00000001.jpg
+[INFO] downloaded: images\bathrooms\00000002.jpg
+[INFO] downloaded: images\bathrooms\00000003.jpg
+[INFO] downloaded: images\bathrooms\00000004.jpg
+[INFO] downloaded: images\bathrooms\00000005.jpg
+[INFO] downloaded: images\bathrooms\00000006.jpg
+[INFO] downloaded: images\bathrooms\00000007.jpg
+[INFO] downloaded: images\bathrooms\00000008.jpg
+[INFO] downloaded: images\bathrooms\00000009.jpg
+[INFO] downloaded: images\bathrooms\00000010.jpg
+[INFO] downloaded: images\bathrooms\00000011.jpg
+[INFO] downloaded: images\bathrooms\00000012.jpg
+[INFO] downloaded: images\bathrooms\00000013.jpg
+[INFO] downloaded: images\bathrooms\00000014.jpg
+[INFO] downloaded: images\bathrooms\00000015.jpg
+[INFO] downloaded: images\bathrooms\00000016.jpg
+[INFO] downloaded: images\bathrooms\00000017.jpg
+[INFO] downloaded: images\bathrooms\00000018.jpg
+[INFO] downloaded: images\bathrooms\00000019.jpg
+[INFO] downloaded: images\bathrooms\00000020.jpg
+[INFO] downloaded: images\bathrooms\00000021.jpg
+[INFO] downloaded: images\bathrooms\00000022.jpg
+[INFO] downloaded: images\bathrooms\00000023.jpg
+[INFO] downloaded: images\bathrooms\00000024.jpg
+[INFO] downloaded: images\bathrooms\00000025.jpg
+[INFO] downloaded: images\bathrooms\00000026.jpg
+[INFO] downloaded: images\bathrooms\00000027.jpg
+[INFO] downloaded: images\bathrooms\00000028.jpg
+[INFO] downloaded: images\bathrooms\00000029.jpg
+[INFO] downloaded: images\bathrooms\00000030.jpg
+[INFO] downloaded: images\bathrooms\00000031.jpg
+[INFO] downloaded: images\bathrooms\00000032.jpg
+[INFO] downloaded: images\bathrooms\00000033.jpg
+[INFO] downloaded: images\bathrooms\00000034.jpg
+[INFO] downloaded: images\bathrooms\00000035.jpg
+[INFO] downloaded: images\bathrooms\00000036.jpg
+[INFO] downloaded: images\bathrooms\00000037.jpg
+[INFO] downloaded: images\bathrooms\00000038.jpg
+[INFO] downloaded: images\bathrooms\00000039.jpg
+[INFO] downloaded: images\bathrooms\00000040.jpg
+[INFO] downloaded: images\bathrooms\00000041.jpg
+[INFO] downloaded: images\bathrooms\00000042.jpg
+[INFO] downloaded: images\bathrooms\00000043.jpg
+[INFO] downloaded: images\bathrooms\00000044.jpg
+[INFO] downloaded: images\bathrooms\00000045.jpg
+[INFO] downloaded: images\bathrooms\00000046.jpg
+[INFO] downloaded: images\bathrooms\00000047.jpg
+[INFO] downloaded: images\bathrooms\00000048.jpg
+[INFO] downloaded: images\bathrooms\00000049.jpg
+[INFO] downloaded: images\bathrooms\00000050.jpg
+[INFO] downloaded: images\bathrooms\00000051.jpg
+[INFO] downloaded: images\bathrooms\00000052.jpg
+[INFO] downloaded: images\bathrooms\00000053.jpg
+[INFO] downloaded: images\bathrooms\00000054.jpg
+[INFO] downloaded: images\bathrooms\00000055.jpg
+[INFO] downloaded: images\bathrooms\00000056.jpg
+[INFO] downloaded: images\bathrooms\00000057.jpg
+[INFO] downloaded: images\bathrooms\00000058.jpg
+[INFO] downloaded: images\bathrooms\00000059.jpg
+[INFO] downloaded: images\bathrooms\00000060.jpg
+[INFO] downloaded: images\bathrooms\00000061.jpg
+[INFO] downloaded: images\bathrooms\00000062.jpg
+[INFO] downloaded: images\bathrooms\00000063.jpg
+[INFO] downloaded: images\bathrooms\00000064.jpg
+[INFO] downloaded: images\bathrooms\00000065.jpg
+[INFO] downloaded: images\bathrooms\00000066.jpg
+[INFO] downloaded: images\bathrooms\00000067.jpg
+[INFO] downloaded: images\bathrooms\00000068.jpg
+[INFO] downloaded: images\bathrooms\00000069.jpg
+[INFO] downloaded: images\bathrooms\00000070.jpg
+[INFO] downloaded: images\bathrooms\00000071.jpg
+[INFO] downloaded: images\bathrooms\00000072.jpg
+[INFO] downloaded: images\bathrooms\00000073.jpg
+[INFO] downloaded: images\bathrooms\00000074.jpg
+[INFO] downloaded: images\bathrooms\00000075.jpg
+[INFO] downloaded: images\bathrooms\00000076.jpg
+[INFO] downloaded: images\bathrooms\00000077.jpg
+[INFO] downloaded: images\bathrooms\00000078.jpg
+[INFO] downloaded: images\bathrooms\00000079.jpg
+[INFO] downloaded: images\bathrooms\00000080.jpg
+[INFO] downloaded: images\bathrooms\00000081.jpg
+[INFO] downloaded: images\bathrooms\00000082.jpg
+[INFO] downloaded: images\bathrooms\00000083.jpg
+[INFO] downloaded: images\bathrooms\00000084.jpg
+[INFO] downloaded: images\bathrooms\00000085.jpg
+[INFO] downloaded: images\bathrooms\00000086.jpg
+[INFO] downloaded: images\bathrooms\00000087.jpg
+[INFO] downloaded: images\bathrooms\00000088.jpg
+[INFO] downloaded: images\bathrooms\00000089.jpg
+[INFO] downloaded: images\bathrooms\00000090.jpg
+[INFO] downloaded: images\bathrooms\00000091.jpg
+[INFO] downloaded: images\bathrooms\00000092.jpg
+[INFO] downloaded: images\bathrooms\00000093.jpg
+[INFO] downloaded: images\bathrooms\00000094.jpg
+[INFO] downloaded: images\bathrooms\00000095.jpg
+[INFO] downloaded: images\bathrooms\00000096.jpg
+[INFO] downloaded: images\bathrooms\00000097.jpg
+[INFO] downloaded: images\bathrooms\00000098.jpg
+[INFO] downloaded: images\bathrooms\00000099.jpg
+[INFO] downloaded: images\bathrooms\00000100.jpg
+[INFO] downloaded: images\bathrooms\00000101.jpg
+[INFO] downloaded: images\bathrooms\00000102.jpg
+[INFO] downloaded: images\bathrooms\00000103.jpg
+[INFO] downloaded: images\bathrooms\00000104.jpg
+[INFO] downloaded: images\bathrooms\00000105.jpg
+[INFO] downloaded: images\bathrooms\00000106.jpg
+[INFO] downloaded: images\bathrooms\00000107.jpg
+[INFO] downloaded: images\bathrooms\00000108.jpg
+[INFO] downloaded: images\bathrooms\00000109.jpg
+[INFO] downloaded: images\bathrooms\00000110.jpg
+[INFO] downloaded: images\bathrooms\00000111.jpg
+[INFO] downloaded: images\bathrooms\00000112.jpg
+[INFO] downloaded: images\bathrooms\00000113.jpg
+[INFO] downloaded: images\bathrooms\00000114.jpg
+[INFO] downloaded: images\bathrooms\00000115.jpg
+[INFO] error downloading images\bathrooms\00000115.jpg...skipping
+[ERROR] error downloading https://pamesa.csnet.es/blog/wp-content/uploads/2017/12/cementtiles-bathrooms-pamesa.jpg
+HTTPSConnectionPool(host='pamesa.csnet.es', port=443): Max retries exceeded with url: /blog/wp-content/uploads/2017/12/cementtiles-bathrooms-pamesa.jpg (Caused by SSLError(SSLCertVerificationError("hostname 'pamesa.csnet.es' doesn't match either of 'web.pamesa.com', 'www.web.pamesa.com'")))
+[INFO] downloaded: images\bathrooms\00000116.jpg
+[INFO] downloaded: images\bathrooms\00000117.jpg
+[INFO] downloaded: images\bathrooms\00000118.jpg
+[INFO] downloaded: images\bathrooms\00000119.jpg
+[INFO] downloaded: images\bathrooms\00000120.jpg
+[INFO] downloaded: images\bathrooms\00000121.jpg
+[INFO] downloaded: images\bathrooms\00000122.jpg
+[INFO] downloaded: images\bathrooms\00000123.jpg
+[INFO] downloaded: images\bathrooms\00000124.jpg
+[INFO] downloaded: images\bathrooms\00000125.jpg
+[INFO] downloaded: images\bathrooms\00000126.jpg
+[INFO] downloaded: images\bathrooms\00000127.jpg
+[INFO] downloaded: images\bathrooms\00000128.jpg
+[INFO] downloaded: images\bathrooms\00000129.jpg
+[INFO] downloaded: images\bathrooms\00000130.jpg
+[INFO] downloaded: images\bathrooms\00000131.jpg
+[INFO] downloaded: images\bathrooms\00000132.jpg
+[INFO] downloaded: images\bathrooms\00000133.jpg
+[INFO] downloaded: images\bathrooms\00000134.jpg
+[INFO] downloaded: images\bathrooms\00000135.jpg
+[INFO] downloaded: images\bathrooms\00000136.jpg
+[INFO] downloaded: images\bathrooms\00000137.jpg
+[INFO] downloaded: images\bathrooms\00000138.jpg
+[INFO] downloaded: images\bathrooms\00000139.jpg
+[INFO] downloaded: images\bathrooms\00000140.jpg
+[INFO] downloaded: images\bathrooms\00000141.jpg
+[INFO] downloaded: images\bathrooms\00000142.jpg
+[INFO] downloaded: images\bathrooms\00000143.jpg
+[INFO] downloaded: images\bathrooms\00000144.jpg
+[INFO] downloaded: images\bathrooms\00000145.jpg
+[INFO] downloaded: images\bathrooms\00000146.jpg
+[INFO] downloaded: images\bathrooms\00000147.jpg
+[INFO] downloaded: images\bathrooms\00000148.jpg
+[INFO] downloaded: images\bathrooms\00000149.jpg
+[INFO] downloaded: images\bathrooms\00000150.jpg
+[INFO] downloaded: images\bathrooms\00000151.jpg
+[INFO] downloaded: images\bathrooms\00000152.jpg
+[INFO] downloaded: images\bathrooms\00000153.jpg
+[INFO] downloaded: images\bathrooms\00000154.jpg
+[INFO] downloaded: images\bathrooms\00000155.jpg
+[INFO] downloaded: images\bathrooms\00000156.jpg
+[INFO] downloaded: images\bathrooms\00000157.jpg
+[INFO] downloaded: images\bathrooms\00000158.jpg
+[INFO] downloaded: images\bathrooms\00000159.jpg
+[INFO] downloaded: images\bathrooms\00000160.jpg
+[INFO] downloaded: images\bathrooms\00000161.jpg
+[INFO] downloaded: images\bathrooms\00000162.jpg
+[INFO] downloaded: images\bathrooms\00000163.jpg
+[INFO] downloaded: images\bathrooms\00000164.jpg
+[INFO] downloaded: images\bathrooms\00000165.jpg
+[INFO] error downloading images\bathrooms\00000165.jpg...skipping
+[ERROR] error downloading https://www.dreammaker-remodel.com/livonia/wp-content/uploads/sites/65/2019/03/file-2.jpg
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] downloaded: images\bathrooms\00000166.jpg
+[INFO] downloaded: images\bathrooms\00000167.jpg
+[INFO] downloaded: images\bathrooms\00000168.jpg
+[INFO] downloaded: images\bathrooms\00000169.jpg
+[INFO] downloaded: images\bathrooms\00000170.jpg
+[INFO] downloaded: images\bathrooms\00000171.jpg
+[INFO] downloaded: images\bathrooms\00000172.jpg
+[INFO] downloaded: images\bathrooms\00000173.jpg
+[INFO] downloaded: images\bathrooms\00000174.jpg
+[INFO] downloaded: images\bathrooms\00000175.jpg
+[INFO] downloaded: images\bathrooms\00000176.jpg
+[INFO] downloaded: images\bathrooms\00000177.jpg
+[INFO] downloaded: images\bathrooms\00000178.jpg
+[INFO] downloaded: images\bathrooms\00000179.jpg
+[INFO] downloaded: images\bathrooms\00000180.jpg
+[INFO] downloaded: images\bathrooms\00000181.jpg
+[INFO] downloaded: images\bathrooms\00000182.jpg
+[INFO] downloaded: images\bathrooms\00000183.jpg
+[INFO] downloaded: images\bathrooms\00000184.jpg
+[INFO] downloaded: images\bathrooms\00000185.jpg
+[INFO] downloaded: images\bathrooms\00000186.jpg
+[INFO] downloaded: images\bathrooms\00000187.jpg
+[INFO] downloaded: images\bathrooms\00000188.jpg
+[INFO] downloaded: images\bathrooms\00000189.jpg
+[INFO] downloaded: images\bathrooms\00000190.jpg
+[INFO] downloaded: images\bathrooms\00000191.jpg
+[INFO] downloaded: images\bathrooms\00000192.jpg
+[INFO] downloaded: images\bathrooms\00000193.jpg
+[INFO] downloaded: images\bathrooms\00000194.jpg
+[INFO] downloaded: images\bathrooms\00000195.jpg
+[INFO] downloaded: images\bathrooms\00000196.jpg
+[INFO] downloaded: images\bathrooms\00000197.jpg
+[INFO] downloaded: images\bathrooms\00000198.jpg
+[INFO] downloaded: images\bathrooms\00000199.jpg
+[INFO] downloaded: images\bathrooms\00000200.jpg
+[INFO] downloaded: images\bathrooms\00000201.jpg
+[INFO] downloaded: images\bathrooms\00000202.jpg
+[INFO] downloaded: images\bathrooms\00000203.jpg
+[INFO] downloaded: images\bathrooms\00000204.jpg
+[INFO] downloaded: images\bathrooms\00000205.jpg
+[INFO] downloaded: images\bathrooms\00000206.jpg
+[INFO] downloaded: images\bathrooms\00000207.jpg
+[INFO] downloaded: images\bathrooms\00000208.jpg
+[INFO] downloaded: images\bathrooms\00000209.jpg
+[INFO] downloaded: images\bathrooms\00000210.jpg
+[INFO] downloaded: images\bathrooms\00000211.jpg
+[INFO] downloaded: images\bathrooms\00000212.jpg
+[INFO] downloaded: images\bathrooms\00000213.jpg
+[INFO] downloaded: images\bathrooms\00000214.jpg
+[INFO] downloaded: images\bathrooms\00000215.jpg
+[INFO] downloaded: images\bathrooms\00000216.jpg
+[INFO] downloaded: images\bathrooms\00000217.jpg
+[INFO] downloaded: images\bathrooms\00000218.jpg
+[INFO] downloaded: images\bathrooms\00000219.jpg
+[INFO] downloaded: images\bathrooms\00000220.jpg
+[INFO] downloaded: images\bathrooms\00000221.jpg
+[INFO] downloaded: images\bathrooms\00000222.jpg
+[INFO] downloaded: images\bathrooms\00000223.jpg
+[INFO] downloaded: images\bathrooms\00000224.jpg
+[INFO] downloaded: images\bathrooms\00000225.jpg
+[INFO] downloaded: images\bathrooms\00000226.jpg
+[INFO] downloaded: images\bathrooms\00000227.jpg
+[INFO] downloaded: images\bathrooms\00000228.jpg
+[INFO] downloaded: images\bathrooms\00000229.jpg
+[INFO] downloaded: images\bathrooms\00000230.jpg
+[INFO] downloaded: images\bathrooms\00000231.jpg
+[INFO] downloaded: images\bathrooms\00000232.jpg
+[INFO] downloaded: images\bathrooms\00000233.jpg
+[INFO] downloaded: images\bathrooms\00000234.jpg
+[INFO] downloaded: images\bathrooms\00000235.jpg
+[INFO] downloaded: images\bathrooms\00000236.jpg
+[INFO] downloaded: images\bathrooms\00000237.jpg
+[INFO] downloaded: images\bathrooms\00000238.jpg
+[INFO] downloaded: images\bathrooms\00000239.jpg
+[INFO] downloaded: images\bathrooms\00000240.jpg
+[INFO] downloaded: images\bathrooms\00000241.jpg
+[INFO] downloaded: images\bathrooms\00000242.jpg
+[INFO] downloaded: images\bathrooms\00000243.jpg
+[INFO] downloaded: images\bathrooms\00000244.jpg
+[INFO] downloaded: images\bathrooms\00000245.jpg
+[INFO] downloaded: images\bathrooms\00000246.jpg
+[INFO] downloaded: images\bathrooms\00000247.jpg
+[INFO] downloaded: images\bathrooms\00000248.jpg
+[INFO] downloaded: images\bathrooms\00000249.jpg
+[INFO] downloaded: images\bathrooms\00000250.jpg
+[INFO] downloaded: images\bathrooms\00000251.jpg
+[INFO] downloaded: images\bathrooms\00000252.jpg
+[INFO] downloaded: images\bathrooms\00000253.jpg
+[INFO] downloaded: images\bathrooms\00000254.jpg
+[INFO] downloaded: images\bathrooms\00000255.jpg
+[INFO] downloaded: images\bathrooms\00000256.jpg
+[INFO] downloaded: images\bathrooms\00000257.jpg
+[INFO] downloaded: images\bathrooms\00000258.jpg
+[INFO] downloaded: images\bathrooms\00000259.jpg
+[INFO] downloaded: images\bathrooms\00000260.jpg
+[INFO] downloaded: images\bathrooms\00000261.jpg
+[INFO] downloaded: images\bathrooms\00000262.jpg
+[INFO] downloaded: images\bathrooms\00000263.jpg
+[INFO] downloaded: images\bathrooms\00000264.jpg
+[INFO] downloaded: images\bathrooms\00000265.jpg
+[INFO] downloaded: images\bathrooms\00000266.jpg
+[INFO] downloaded: images\bathrooms\00000267.jpg
+[INFO] downloaded: images\bathrooms\00000268.jpg
+[INFO] downloaded: images\bathrooms\00000269.jpg
+[INFO] downloaded: images\bathrooms\00000270.jpg
+[INFO] downloaded: images\bathrooms\00000271.jpg
+[INFO] downloaded: images\bathrooms\00000272.jpg
+[INFO] downloaded: images\bathrooms\00000273.jpg
+[INFO] downloaded: images\bathrooms\00000274.jpg
+[INFO] downloaded: images\bathrooms\00000275.jpg
+[INFO] error downloading images\bathrooms\00000275.jpg...skipping
+[ERROR] error downloading https://heygents.com/wp-content/uploads/2017/03/bathroom1.jpg
+HTTPSConnectionPool(host='heygents.com', port=443): Max retries exceeded with url: /wp-content/uploads/2017/03/bathroom1.jpg (Caused by SSLError(SSLCertVerificationError("hostname 'heygents.com' doesn't match either of 'heygents.com.au', 'www.heygents.com.au'")))
+[INFO] downloaded: images\bathrooms\00000276.jpg
+[INFO] error downloading images\bathrooms\00000276.jpg...skipping
+[ERROR] error downloading https://www.beyond-bathrooms.co.uk/wp-content/uploads/2019/02/Eco-Bathrooms-Image_Gloss_Kashmir.jpg
+HTTPSConnectionPool(host='www.beyond-bathrooms.co.uk', port=443): Max retries exceeded with url: /wp-content/uploads/2019/02/Eco-Bathrooms-Image_Gloss_Kashmir.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+[INFO] downloaded: images\bathrooms\00000277.jpg
+[INFO] downloaded: images\bathrooms\00000278.jpg
+[INFO] downloaded: images\bathrooms\00000279.jpg
+[INFO] downloaded: images\bathrooms\00000280.jpg
+[INFO] downloaded: images\bathrooms\00000281.jpg
+[INFO] downloaded: images\bathrooms\00000282.jpg
+[INFO] downloaded: images\bathrooms\00000283.jpg
+[INFO] downloaded: images\bathrooms\00000284.jpg
+[INFO] downloaded: images\bathrooms\00000285.jpg
+[INFO] downloaded: images\bathrooms\00000286.jpg
+[INFO] downloaded: images\bathrooms\00000287.jpg
+[INFO] downloaded: images\bathrooms\00000288.jpg
+[INFO] downloaded: images\bathrooms\00000289.jpg
+[INFO] downloaded: images\bathrooms\00000290.jpg
+[INFO] downloaded: images\bathrooms\00000291.jpg
+[INFO] downloaded: images\bathrooms\00000292.jpg
+[INFO] downloaded: images\bathrooms\00000293.jpg
+[INFO] downloaded: images\bathrooms\00000294.jpg
+[INFO] downloaded: images\bathrooms\00000295.jpg
+[INFO] downloaded: images\bathrooms\00000296.jpg
+[INFO] downloaded: images\bathrooms\00000297.jpg
+[INFO] downloaded: images\bathrooms\00000298.jpg
+[INFO] downloaded: images\bathrooms\00000299.jpg
+[INFO] downloaded: images\bathrooms\00000300.jpg
+[INFO] downloaded: images\bathrooms\00000301.jpg
+[INFO] downloaded: images\bathrooms\00000302.jpg
+[INFO] downloaded: images\bathrooms\00000303.jpg
+[INFO] downloaded: images\bathrooms\00000304.jpg
+[INFO] downloaded: images\bathrooms\00000305.jpg
+[INFO] downloaded: images\bathrooms\00000306.jpg
+[INFO] downloaded: images\bathrooms\00000307.jpg
+[INFO] downloaded: images\bathrooms\00000308.jpg
+[INFO] downloaded: images\bathrooms\00000309.jpg
+[INFO] downloaded: images\bathrooms\00000310.jpg
+[INFO] downloaded: images\bathrooms\00000311.jpg
+[INFO] downloaded: images\bathrooms\00000312.jpg
+[INFO] downloaded: images\bathrooms\00000313.jpg
+[INFO] downloaded: images\bathrooms\00000314.jpg
+[INFO] downloaded: images\bathrooms\00000315.jpg
+[INFO] downloaded: images\bathrooms\00000316.jpg
+[INFO] downloaded: images\bathrooms\00000317.jpg
+[INFO] downloaded: images\bathrooms\00000318.jpg
+[INFO] downloaded: images\bathrooms\00000319.jpg
+[INFO] error downloading images\bathrooms\00000319.jpg...skipping
+[ERROR] error downloading https://sahomesguide.co.za/media/com_jbusinessdirectory/pictures/companies/0/tic_bathrooms_intro-1582542637.png
+HTTPSConnectionPool(host='sahomesguide.co.za', port=443): Max retries exceeded with url: /media/com_jbusinessdirectory/pictures/companies/0/tic_bathrooms_intro-1582542637.png (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020654DE4408>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+[INFO] downloaded: images\bathrooms\00000320.jpg
+[INFO] downloaded: images\bathrooms\00000321.jpg
+[INFO] downloaded: images\bathrooms\00000322.jpg
+[INFO] downloaded: images\bathrooms\00000323.jpg
+[INFO] downloaded: images\bathrooms\00000324.jpg
+[INFO] downloaded: images\bathrooms\00000325.jpg
+[INFO] downloaded: images\bathrooms\00000326.jpg
+[INFO] downloaded: images\bathrooms\00000327.jpg
+[INFO] downloaded: images\bathrooms\00000328.jpg
+[INFO] downloaded: images\bathrooms\00000329.jpg
+[INFO] downloaded: images\bathrooms\00000330.jpg
+[INFO] error downloading images\bathrooms\00000330.jpg...skipping
+[ERROR] error downloading https://www.idealspec.co.uk/Uploads/BlogPostImages/Small-bathroom-ideas.jpg
+HTTPSConnectionPool(host='www.idealspec.co.uk', port=443): Max retries exceeded with url: /Uploads/BlogPostImages/Small-bathroom-ideas.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+[INFO] downloaded: images\bathrooms\00000331.jpg
+[INFO] downloaded: images\bathrooms\00000332.jpg
+[INFO] downloaded: images\bathrooms\00000333.jpg
+[INFO] downloaded: images\bathrooms\00000334.jpg
+[INFO] downloaded: images\bathrooms\00000335.jpg
+[INFO] downloaded: images\bathrooms\00000336.jpg
+[INFO] downloaded: images\bathrooms\00000337.jpg
+[INFO] downloaded: images\bathrooms\00000338.jpg
+[INFO] downloaded: images\bathrooms\00000339.jpg
+[INFO] downloaded: images\bathrooms\00000340.jpg
+[INFO] downloaded: images\bathrooms\00000341.jpg
+[INFO] downloaded: images\bathrooms\00000342.jpg
+[INFO] downloaded: images\bathrooms\00000343.jpg
+[INFO] downloaded: images\bathrooms\00000344.jpg
+[INFO] downloaded: images\bathrooms\00000345.jpg
+[INFO] downloaded: images\bathrooms\00000346.jpg
+[INFO] downloaded: images\bathrooms\00000347.jpg
+[INFO] downloaded: images\bathrooms\00000348.jpg
+[INFO] downloaded: images\bathrooms\00000349.jpg
+[INFO] downloaded: images\bathrooms\00000350.jpg
+[INFO] downloaded: images\bathrooms\00000351.jpg
+[INFO] downloaded: images\bathrooms\00000352.jpg
+[INFO] downloaded: images\bathrooms\00000353.jpg
+[INFO] downloaded: images\bathrooms\00000354.jpg
+[INFO] downloaded: images\bathrooms\00000355.jpg
+[INFO] downloaded: images\bathrooms\00000356.jpg
+[INFO] downloaded: images\bathrooms\00000357.jpg
+[INFO] downloaded: images\bathrooms\00000358.jpg
+[INFO] downloaded: images\bathrooms\00000359.jpg
+[INFO] downloaded: images\bathrooms\00000360.jpg
+[INFO] downloaded: images\bathrooms\00000361.jpg
+[INFO] downloaded: images\bathrooms\00000362.jpg
+[INFO] downloaded: images\bathrooms\00000363.jpg
+[INFO] downloaded: images\bathrooms\00000364.jpg
+[INFO] downloaded: images\bathrooms\00000365.jpg
+[INFO] downloaded: images\bathrooms\00000366.jpg
+[INFO] downloaded: images\bathrooms\00000367.jpg
+[INFO] downloaded: images\bathrooms\00000368.jpg
+[INFO] downloaded: images\bathrooms\00000369.jpg
+[INFO] downloaded: images\bathrooms\00000370.jpg
+[INFO] downloaded: images\bathrooms\00000371.jpg
+[INFO] downloaded: images\bathrooms\00000372.jpg
+[INFO] downloaded: images\bathrooms\00000373.jpg
+[INFO] downloaded: images\bathrooms\00000374.jpg
+[INFO] downloaded: images\bathrooms\00000375.jpg
+[INFO] downloaded: images\bathrooms\00000376.jpg
+[INFO] downloaded: images\bathrooms\00000377.jpg
+[INFO] downloaded: images\bathrooms\00000378.jpg
+[INFO] downloaded: images\bathrooms\00000379.jpg
+[INFO] downloaded: images\bathrooms\00000380.jpg
+[INFO] downloaded: images\bathrooms\00000381.jpg
+[INFO] downloaded: images\bathrooms\00000382.jpg
+[INFO] downloaded: images\bathrooms\00000383.jpg
+[INFO] downloaded: images\bathrooms\00000384.jpg
+[INFO] downloaded: images\bathrooms\00000385.jpg
+[INFO] downloaded: images\bathrooms\00000386.jpg
+[INFO] downloaded: images\bathrooms\00000387.jpg
+[INFO] downloaded: images\bathrooms\00000388.jpg
+[INFO] downloaded: images\bathrooms\00000389.jpg
+[INFO] downloaded: images\bathrooms\00000390.jpg
+[INFO] downloaded: images\bathrooms\00000391.jpg
+[INFO] downloaded: images\bathrooms\00000392.jpg
+[INFO] downloaded: images\bathrooms\00000393.jpg
+[INFO] downloaded: images\bathrooms\00000394.jpg
+[INFO] downloaded: images\bathrooms\00000395.jpg
+[INFO] downloaded: images\bathrooms\00000396.jpg
+[INFO] downloaded: images\bathrooms\00000397.jpg
+[INFO] downloaded: images\bathrooms\00000398.jpg
+[INFO] downloaded: images\bathrooms\00000399.jpg
+[INFO] downloaded: images\bathrooms\00000400.jpg
+[INFO] downloaded: images\bathrooms\00000401.jpg
+[INFO] downloaded: images\bathrooms\00000402.jpg
+[INFO] downloaded: images\bathrooms\00000403.jpg
+[INFO] downloaded: images\bathrooms\00000404.jpg
+[INFO] downloaded: images\bathrooms\00000405.jpg
+[INFO] downloaded: images\bathrooms\00000406.jpg
+[INFO] downloaded: images\bathrooms\00000407.jpg
+[INFO] downloaded: images\bathrooms\00000408.jpg
+[INFO] downloaded: images\bathrooms\00000409.jpg
+[INFO] downloaded: images\bathrooms\00000410.jpg
+[INFO] downloaded: images\bathrooms\00000411.jpg
+[INFO] downloaded: images\bathrooms\00000412.jpg
+[INFO] downloaded: images\bathrooms\00000413.jpg
+[INFO] downloaded: images\bathrooms\00000414.jpg
+[INFO] downloaded: images\bathrooms\00000415.jpg
+[INFO] downloaded: images\bathrooms\00000416.jpg
+[INFO] downloaded: images\bathrooms\00000417.jpg
+[INFO] downloaded: images\bathrooms\00000418.jpg
+[INFO] downloaded: images\bathrooms\00000419.jpg
+[INFO] downloaded: images\bathrooms\00000420.jpg
+[INFO] downloaded: images\bathrooms\00000421.jpg
+[INFO] downloaded: images\bathrooms\00000422.jpg
+[INFO] downloaded: images\bathrooms\00000423.jpg
+[INFO] downloaded: images\bathrooms\00000424.jpg
+[INFO] downloaded: images\bathrooms\00000425.jpg
+[INFO] downloaded: images\bathrooms\00000426.jpg
+[INFO] downloaded: images\bathrooms\00000427.jpg
+[INFO] downloaded: images\bathrooms\00000428.jpg
+[INFO] downloaded: images\bathrooms\00000429.jpg
+[INFO] downloaded: images\bathrooms\00000430.jpg
+[INFO] downloaded: images\bathrooms\00000431.jpg
+[INFO] downloaded: images\bathrooms\00000432.jpg
+[INFO] downloaded: images\bathrooms\00000433.jpg
+[INFO] downloaded: images\bathrooms\00000434.jpg
+[INFO] downloaded: images\bathrooms\00000435.jpg
+[INFO] downloaded: images\bathrooms\00000436.jpg
+[INFO] downloaded: images\bathrooms\00000437.jpg
+[INFO] downloaded: images\bathrooms\00000438.jpg
+[INFO] downloaded: images\bathrooms\00000439.jpg
+[INFO] downloaded: images\bathrooms\00000440.jpg
+[INFO] downloaded: images\bathrooms\00000441.jpg
+[INFO] downloaded: images\bathrooms\00000442.jpg
+[INFO] downloaded: images\bathrooms\00000443.jpg
+[INFO] downloaded: images\bathrooms\00000444.jpg
+[INFO] downloaded: images\bathrooms\00000445.jpg
+[INFO] downloaded: images\bathrooms\00000446.jpg
+[INFO] downloaded: images\bathrooms\00000447.jpg
+[INFO] downloaded: images\bathrooms\00000448.jpg
+[INFO] downloaded: images\bathrooms\00000449.jpg
+[INFO] downloaded: images\bathrooms\00000450.jpg
+[INFO] downloaded: images\bathrooms\00000451.jpg
+[INFO] downloaded: images\bathrooms\00000452.jpg
+[INFO] downloaded: images\bathrooms\00000453.jpg
+[INFO] downloaded: images\bathrooms\00000454.jpg
+[INFO] downloaded: images\bathrooms\00000455.jpg
+[INFO] downloaded: images\bathrooms\00000456.jpg
+[INFO] downloaded: images\bathrooms\00000457.jpg
+[INFO] downloaded: images\bathrooms\00000458.jpg
+[INFO] downloaded: images\bathrooms\00000459.jpg
+[INFO] downloaded: images\bathrooms\00000460.jpg
+[INFO] downloaded: images\bathrooms\00000461.jpg
+[INFO] downloaded: images\bathrooms\00000462.jpg
+[INFO] downloaded: images\bathrooms\00000463.jpg
+[INFO] downloaded: images\bathrooms\00000464.jpg
+[INFO] downloaded: images\bathrooms\00000465.jpg
+[INFO] downloaded: images\bathrooms\00000466.jpg
+[INFO] downloaded: images\bathrooms\00000467.jpg
+[INFO] downloaded: images\bathrooms\00000468.jpg
+[INFO] downloaded: images\bathrooms\00000469.jpg
+[INFO] downloaded: images\bathrooms\00000470.jpg
+[INFO] downloaded: images\bathrooms\00000471.jpg
+[INFO] downloaded: images\bathrooms\00000472.jpg
+[INFO] downloaded: images\bathrooms\00000473.jpg
+[INFO] downloaded: images\bathrooms\00000474.jpg
+[INFO] downloaded: images\bathrooms\00000475.jpg
+[INFO] error downloading images\bathrooms\00000475.jpg...skipping
+[ERROR] error downloading https://image.ferguson.com/prodimages/gallery/thumbnail/Mirabelle_2018_Beasley_Powder-sh2.jpg
+HTTPSConnectionPool(host='image.ferguson.com', port=443): Read timed out. (read timeout=60)
+[INFO] error downloading images\bathrooms\00000475.jpg...skipping
+[ERROR] error downloading https://www.vitraglobal.com/UPLOAD/Fikirler/ilhamlar/Ferah%20Banyolar/Nest%20560x285px.jpg
+HTTPSConnectionPool(host='www.vitraglobal.com', port=443): Max retries exceeded with url: /UPLOAD/Fikirler/ilhamlar/Ferah%20Banyolar/Nest%20560x285px.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+[INFO] downloaded: images\bathrooms\00000476.jpg
+[INFO] downloaded: images\bathrooms\00000477.jpg
+[INFO] downloaded: images\bathrooms\00000478.jpg
+[INFO] downloaded: images\bathrooms\00000479.jpg
+[INFO] downloaded: images\bathrooms\00000480.jpg
+[INFO] downloaded: images\bathrooms\00000481.jpg
+[INFO] downloaded: images\bathrooms\00000482.jpg
+[INFO] downloaded: images\bathrooms\00000483.jpg
+[INFO] downloaded: images\bathrooms\00000484.jpg
+[INFO] error downloading images\bathrooms\00000484.jpg...skipping
+[ERROR] error downloading https://www.beyond-bathrooms.co.uk/wp-content/uploads/2019/02/Eco-Bathrooms-Urban_Gloss_White_Wave.jpg
+HTTPSConnectionPool(host='www.beyond-bathrooms.co.uk', port=443): Max retries exceeded with url: /wp-content/uploads/2019/02/Eco-Bathrooms-Urban_Gloss_White_Wave.jpg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1076)')))
+[INFO] downloaded: images\bathrooms\00000485.jpg
+[INFO] downloaded: images\bathrooms\00000486.jpg
+[INFO] downloaded: images\bathrooms\00000487.jpg
+[INFO] downloaded: images\bathrooms\00000488.jpg
+[INFO] downloaded: images\bathrooms\00000489.jpg
+[INFO] downloaded: images\bathrooms\00000490.jpg
+[INFO] downloaded: images\bathrooms\00000491.jpg
+[INFO] downloaded: images\bathrooms\00000492.jpg
+[INFO] downloaded: images\bathrooms\00000493.jpg
+[INFO] downloaded: images\bathrooms\00000494.jpg
+[INFO] error downloading images\bathrooms\00000494.jpg...skipping
+[ERROR] error downloading https://pamesa.csnet.es/blog/wp-content/uploads/2017/12/tiles-for-bathrooms-pamesa.jpg
+HTTPSConnectionPool(host='pamesa.csnet.es', port=443): Max retries exceeded with url: /blog/wp-content/uploads/2017/12/tiles-for-bathrooms-pamesa.jpg (Caused by SSLError(SSLCertVerificationError("hostname 'pamesa.csnet.es' doesn't match either of 'web.pamesa.com', 'www.web.pamesa.com'")))
+[INFO] downloaded: images\bathrooms\00000495.jpg
+[INFO] downloaded: images\bathrooms\00000496.jpg
+[INFO] downloaded: images\bathrooms\00000497.jpg
+[INFO] downloaded: images\bathrooms\00000498.jpg
+[INFO] downloaded: images\bathrooms\00000499.jpg
+[INFO] downloaded: images\bathrooms\00000500.jpg
+[INFO] downloaded: images\bathrooms\00000501.jpg
+[INFO] downloaded: images\bathrooms\00000502.jpg
+[INFO] downloaded: images\bathrooms\00000503.jpg
+[INFO] downloaded: images\bathrooms\00000504.jpg
+[INFO] downloaded: images\bathrooms\00000505.jpg
+[INFO] downloaded: images\bathrooms\00000506.jpg
+[INFO] downloaded: images\bathrooms\00000507.jpg
+[INFO] downloaded: images\bathrooms\00000508.jpg
+[INFO] downloaded: images\bathrooms\00000509.jpg
+[INFO] downloaded: images\bathrooms\00000510.jpg
+[INFO] downloaded: images\bathrooms\00000511.jpg
+[INFO] downloaded: images\bathrooms\00000512.jpg
+[INFO] downloaded: images\bathrooms\00000513.jpg
+[INFO] downloaded: images\bathrooms\00000514.jpg
+[INFO] downloaded: images\bathrooms\00000515.jpg
+[INFO] downloaded: images\bathrooms\00000516.jpg
+[INFO] error downloading images\bathrooms\00000516.jpg...skipping
+[ERROR] error downloading https://image.ferguson.com/prodimages/gallery/thumbnail/BrizoAtavis2019300.jpg
+HTTPSConnectionPool(host='image.ferguson.com', port=443): Read timed out. (read timeout=60)
+[INFO] downloaded: images\bathrooms\00000517.jpg
+[INFO] downloaded: images\bathrooms\00000518.jpg
+[INFO] downloaded: images\bathrooms\00000519.jpg
+[INFO] downloaded: images\bathrooms\00000520.jpg
+[INFO] downloaded: images\bathrooms\00000521.jpg
+[INFO] downloaded: images\bathrooms\00000522.jpg
+[INFO] downloaded: images\bathrooms\00000523.jpg
+[INFO] downloaded: images\bathrooms\00000524.jpg
+[INFO] downloaded: images\bathrooms\00000525.jpg
+[INFO] downloaded: images\bathrooms\00000526.jpg
+[INFO] downloaded: images\bathrooms\00000527.jpg
+[INFO] downloaded: images\bathrooms\00000528.jpg
+[INFO] downloaded: images\bathrooms\00000529.jpg
+[INFO] downloaded: images\bathrooms\00000530.jpg
+[INFO] downloaded: images\bathrooms\00000531.jpg
+[INFO] downloaded: images\bathrooms\00000532.jpg
+[INFO] downloaded: images\bathrooms\00000533.jpg
+[INFO] downloaded: images\bathrooms\00000534.jpg
+[INFO] downloaded: images\bathrooms\00000535.jpg
+[INFO] downloaded: images\bathrooms\00000536.jpg
+[INFO] downloaded: images\bathrooms\00000537.jpg
+[INFO] downloaded: images\bathrooms\00000538.jpg
+[INFO] downloaded: images\bathrooms\00000539.jpg
+[INFO] downloaded: images\bathrooms\00000540.jpg
+[INFO] downloaded: images\bathrooms\00000541.jpg
+[INFO] downloaded: images\bathrooms\00000542.jpg
+[INFO] downloaded: images\bathrooms\00000543.jpg
+[INFO] downloaded: images\bathrooms\00000544.jpg
+[INFO] downloaded: images\bathrooms\00000545.jpg
+[INFO] downloaded: images\bathrooms\00000546.jpg
+[INFO] downloaded: images\bathrooms\00000547.jpg
+[INFO] downloaded: images\bathrooms\00000548.jpg
+[INFO] downloaded: images\bathrooms\00000549.jpg
+[INFO] downloaded: images\bathrooms\00000550.jpg
+[INFO] downloaded: images\bathrooms\00000551.jpg
+[INFO] downloaded: images\bathrooms\00000552.jpg
+[INFO] downloaded: images\bathrooms\00000553.jpg
+[INFO] downloaded: images\bathrooms\00000554.jpg
+[INFO] downloaded: images\bathrooms\00000555.jpg
+[INFO] downloaded: images\bathrooms\00000556.jpg
+[INFO] downloaded: images\bathrooms\00000557.jpg
+[INFO] downloaded: images\bathrooms\00000558.jpg
+[INFO] downloaded: images\bathrooms\00000559.jpg
+[INFO] downloaded: images\bathrooms\00000560.jpg
+[INFO] downloaded: images\bathrooms\00000561.jpg
+[INFO] downloaded: images\bathrooms\00000562.jpg
+[INFO] downloaded: images\bathrooms\00000563.jpg
+[INFO] downloaded: images\bathrooms\00000564.jpg
+[INFO] downloaded: images\bathrooms\00000565.jpg
+[INFO] downloaded: images\bathrooms\00000566.jpg
+[INFO] downloaded: images\bathrooms\00000567.jpg
+[INFO] downloaded: images\bathrooms\00000568.jpg
+[INFO] downloaded: images\bathrooms\00000569.jpg
+[INFO] downloaded: images\bathrooms\00000570.jpg
+[INFO] downloaded: images\bathrooms\00000571.jpg
+[INFO] downloaded: images\bathrooms\00000572.jpg
+[INFO] downloaded: images\bathrooms\00000573.jpg
+[INFO] downloaded: images\bathrooms\00000574.jpg
+[INFO] downloaded: images\bathrooms\00000575.jpg
+[INFO] downloaded: images\bathrooms\00000576.jpg
+[INFO] downloaded: images\bathrooms\00000577.jpg
+[INFO] downloaded: images\bathrooms\00000578.jpg
+[INFO] downloaded: images\bathrooms\00000579.jpg
+[INFO] downloaded: images\bathrooms\00000580.jpg
+[INFO] downloaded: images\bathrooms\00000581.jpg
+[INFO] downloaded: images\bathrooms\00000582.jpg
+[INFO] downloaded: images\bathrooms\00000583.jpg
+[INFO] downloaded: images\bathrooms\00000584.jpg
+[INFO] downloaded: images\bathrooms\00000585.jpg
+[INFO] downloaded: images\bathrooms\00000586.jpg
+[INFO] downloaded: images\bathrooms\00000587.jpg
+[INFO] downloaded: images\bathrooms\00000588.jpg
+[INFO] downloaded: images\bathrooms\00000589.jpg
+[INFO] downloaded: images\bathrooms\00000590.jpg
+[INFO] downloaded: images\bathrooms\00000591.jpg
+[INFO] downloaded: images\bathrooms\00000592.jpg
+[INFO] downloaded: images\bathrooms\00000593.jpg
+[INFO] downloaded: images\bathrooms\00000594.jpg
+[INFO] downloaded: images\bathrooms\00000595.jpg
+[INFO] downloaded: images\bathrooms\00000596.jpg
+[INFO] downloaded: images\bathrooms\00000597.jpg
+[INFO] downloaded: images\bathrooms\00000598.jpg
+[INFO] downloaded: images\bathrooms\00000599.jpg
+[INFO] downloaded: images\bathrooms\00000600.jpg
+[INFO] downloaded: images\bathrooms\00000601.jpg
+[INFO] downloaded: images\bathrooms\00000602.jpg
+[INFO] downloaded: images\bathrooms\00000603.jpg
+[INFO] downloaded: images\bathrooms\00000604.jpg
+[INFO] downloaded: images\bathrooms\00000605.jpg
+[INFO] downloaded: images\bathrooms\00000606.jpg
+[INFO] downloaded: images\bathrooms\00000607.jpg
+[INFO] downloaded: images\bathrooms\00000608.jpg
+[INFO] downloaded: images\bathrooms\00000609.jpg
+[INFO] downloaded: images\bathrooms\00000610.jpg
+[INFO] downloaded: images\bathrooms\00000611.jpg
+[INFO] downloaded: images\bathrooms\00000612.jpg
+[INFO] downloaded: images\bathrooms\00000613.jpg
+[INFO] downloaded: images\bathrooms\00000614.jpg
+[INFO] downloaded: images\bathrooms\00000615.jpg
+[INFO] downloaded: images\bathrooms\00000616.jpg
+[INFO] downloaded: images\bathrooms\00000617.jpg
+[INFO] downloaded: images\bathrooms\00000618.jpg
+[INFO] downloaded: images\bathrooms\00000619.jpg
+[INFO] downloaded: images\bathrooms\00000620.jpg
+[INFO] downloaded: images\bathrooms\00000621.jpg
+[INFO] downloaded: images\bathrooms\00000622.jpg
+[INFO] downloaded: images\bathrooms\00000623.jpg
+[INFO] downloaded: images\bathrooms\00000624.jpg
+[INFO] downloaded: images\bathrooms\00000625.jpg
+[INFO] downloaded: images\bathrooms\00000626.jpg
+[INFO] downloaded: images\bathrooms\00000627.jpg
+[INFO] downloaded: images\bathrooms\00000628.jpg
+[INFO] downloaded: images\bathrooms\00000629.jpg
+[INFO] downloaded: images\bathrooms\00000630.jpg
+[INFO] downloaded: images\bathrooms\00000631.jpg
+[INFO] downloaded: images\bathrooms\00000632.jpg
+[INFO] downloaded: images\bathrooms\00000633.jpg
+[INFO] downloaded: images\bathrooms\00000634.jpg
+[INFO] downloaded: images\bathrooms\00000635.jpg
+[INFO] downloaded: images\bathrooms\00000636.jpg
+[INFO] downloaded: images\bathrooms\00000637.jpg
+[INFO] downloaded: images\bathrooms\00000638.jpg
+[INFO] downloaded: images\bathrooms\00000639.jpg
+[INFO] downloaded: images\bathrooms\00000640.jpg
+[INFO] downloaded: images\bathrooms\00000641.jpg
+[INFO] downloaded: images\bathrooms\00000642.jpg
+[INFO] downloaded: images\bathrooms\00000643.jpg
+[INFO] downloaded: images\bathrooms\00000644.jpg
+[INFO] downloaded: images\bathrooms\00000645.jpg
+[INFO] downloaded: images\bathrooms\00000646.jpg
+[INFO] downloaded: images\bathrooms\00000647.jpg
+[INFO] downloaded: images\bathrooms\00000648.jpg
+[INFO] downloaded: images\bathrooms\00000649.jpg
+[INFO] downloaded: images\bathrooms\00000650.jpg
+[INFO] downloaded: images\bathrooms\00000651.jpg
+[INFO] downloaded: images\bathrooms\00000652.jpg
+[INFO] downloaded: images\bathrooms\00000653.jpg
+[INFO] downloaded: images\bathrooms\00000654.jpg
+[INFO] downloaded: images\bathrooms\00000655.jpg
+[INFO] downloaded: images\bathrooms\00000656.jpg
+[INFO] downloaded: images\bathrooms\00000657.jpg
+[INFO] downloaded: images\bathrooms\00000658.jpg
+[INFO] downloaded: images\bathrooms\00000659.jpg
+[INFO] downloaded: images\bathrooms\00000660.jpg
+[INFO] downloaded: images\bathrooms\00000661.jpg
+[INFO] downloaded: images\bathrooms\00000662.jpg
+[INFO] downloaded: images\bathrooms\00000663.jpg
+[INFO] downloaded: images\bathrooms\00000664.jpg
+[INFO] downloaded: images\bathrooms\00000665.jpg
+[INFO] downloaded: images\bathrooms\00000666.jpg
+[INFO] downloaded: images\bathrooms\00000667.jpg
+[INFO] downloaded: images\bathrooms\00000668.jpg
+[INFO] downloaded: images\bathrooms\00000669.jpg
+[INFO] downloaded: images\bathrooms\00000670.jpg
+[INFO] downloaded: images\bathrooms\00000671.jpg
+[INFO] downloaded: images\bathrooms\00000672.jpg
+[INFO] downloaded: images\bathrooms\00000673.jpg
+[INFO] downloaded: images\bathrooms\00000674.jpg
+[INFO] downloaded: images\bathrooms\00000675.jpg
+[INFO] downloaded: images\bathrooms\00000676.jpg
+[INFO] downloaded: images\bathrooms\00000677.jpg
+[INFO] downloaded: images\bathrooms\00000678.jpg
+[INFO] downloaded: images\bathrooms\00000679.jpg
+[INFO] downloaded: images\bathrooms\00000680.jpg
+[INFO] downloaded: images\bathrooms\00000681.jpg
+[INFO] downloaded: images\bathrooms\00000682.jpg
+[INFO] downloaded: images\bathrooms\00000683.jpg
+[INFO] downloaded: images\bathrooms\00000684.jpg
+[INFO] downloaded: images\bathrooms\00000685.jpg
+[INFO] downloaded: images\bathrooms\00000686.jpg
+[INFO] downloaded: images\bathrooms\00000687.jpg
+[INFO] downloaded: images\bathrooms\00000688.jpg
+[INFO] downloaded: images\bathrooms\00000689.jpg
+[INFO] downloaded: images\bathrooms\00000690.jpg
+[INFO] downloaded: images\bathrooms\00000691.jpg
+[INFO] downloaded: images\bathrooms\00000692.jpg
+[INFO] downloaded: images\bathrooms\00000693.jpg
+[INFO] downloaded: images\bathrooms\00000694.jpg
+[INFO] downloaded: images\bathrooms\00000695.jpg
+[INFO] downloaded: images\bathrooms\00000696.jpg
+[INFO] downloaded: images\bathrooms\00000697.jpg
+[INFO] downloaded: images\bathrooms\00000698.jpg
+[INFO] downloaded: images\bathrooms\00000699.jpg
+[INFO] downloaded: images\bathrooms\00000700.jpg
+[INFO] downloaded: images\bathrooms\00000701.jpg
+[INFO] downloaded: images\bathrooms\00000702.jpg
+[INFO] downloaded: images\bathrooms\00000703.jpg
+[INFO] downloaded: images\bathrooms\00000704.jpg
+[INFO] downloaded: images\bathrooms\00000705.jpg
+[INFO] downloaded: images\bathrooms\00000706.jpg
+[INFO] downloaded: images\bathrooms\00000707.jpg
+[INFO] downloaded: images\bathrooms\00000708.jpg
+[INFO] downloaded: images\bathrooms\00000709.jpg
+[INFO] downloaded: images\bathrooms\00000710.jpg
+[INFO] downloaded: images\bathrooms\00000711.jpg
+[INFO] downloaded: images\bathrooms\00000712.jpg
+[INFO] downloaded: images\bathrooms\00000713.jpg
+[INFO] downloaded: images\bathrooms\00000714.jpg
+[INFO] downloaded: images\bathrooms\00000715.jpg
+[INFO] downloaded: images\bathrooms\00000716.jpg
+[INFO] downloaded: images\bathrooms\00000717.jpg
+[INFO] downloaded: images\bathrooms\00000718.jpg
+[INFO] downloaded: images\bathrooms\00000719.jpg
+[INFO] downloaded: images\bathrooms\00000720.jpg
+[INFO] downloaded: images\bathrooms\00000721.jpg
+[INFO] downloaded: images\bathrooms\00000722.jpg
+[INFO] downloaded: images\bathrooms\00000723.jpg
+[INFO] downloaded: images\bathrooms\00000724.jpg
+[INFO] downloaded: images\bathrooms\00000725.jpg
+[INFO] downloaded: images\bathrooms\00000726.jpg
+[INFO] downloaded: images\bathrooms\00000727.jpg
+[INFO] downloaded: images\bathrooms\00000728.jpg
+[INFO] downloaded: images\bathrooms\00000729.jpg
+[INFO] downloaded: images\bathrooms\00000730.jpg
+[INFO] downloaded: images\bathrooms\00000731.jpg
+[INFO] downloaded: images\bathrooms\00000732.jpg
+[INFO] downloaded: images\bathrooms\00000733.jpg
+[INFO] downloaded: images\bathrooms\00000734.jpg
+[INFO] downloaded: images\bathrooms\00000735.jpg
+[INFO] downloaded: images\bathrooms\00000736.jpg
+[INFO] downloaded: images\bathrooms\00000737.jpg
+[INFO] downloaded: images\bathrooms\00000738.jpg
+[INFO] downloaded: images\bathrooms\00000739.jpg
+[INFO] downloaded: images\bathrooms\00000740.jpg
+[INFO] downloaded: images\bathrooms\00000741.jpg
+[INFO] downloaded: images\bathrooms\00000742.jpg
+[INFO] downloaded: images\bathrooms\00000743.jpg
+[INFO] downloaded: images\bathrooms\00000744.jpg
+[INFO] downloaded: images\bathrooms\00000745.jpg
+[INFO] downloaded: images\bathrooms\00000746.jpg
+[INFO] downloaded: images\bathrooms\00000747.jpg
+[INFO] downloaded: images\bathrooms\00000748.jpg
+[INFO] downloaded: images\bathrooms\00000749.jpg
+[INFO] downloaded: images\bathrooms\00000750.jpg
+[INFO] downloaded: images\bathrooms\00000751.jpg
+[INFO] downloaded: images\bathrooms\00000752.jpg
+[INFO] downloaded: images\bathrooms\00000753.jpg
+[INFO] downloaded: images\bathrooms\00000754.jpg
+[INFO] downloaded: images\bathrooms\00000755.jpg
+[INFO] downloaded: images\bathrooms\00000756.jpg
+[INFO] downloaded: images\bathrooms\00000757.jpg
+[INFO] downloaded: images\bathrooms\00000758.jpg
+[INFO] downloaded: images\bathrooms\00000759.jpg
+[INFO] downloaded: images\bathrooms\00000760.jpg
+[INFO] downloaded: images\bathrooms\00000761.jpg
+[INFO] downloaded: images\bathrooms\00000762.jpg
+[INFO] downloaded: images\bathrooms\00000763.jpg
+[INFO] downloaded: images\bathrooms\00000764.jpg
+[INFO] downloaded: images\bathrooms\00000765.jpg
+[INFO] downloaded: images\bathrooms\00000766.jpg
+[INFO] downloaded: images\bathrooms\00000767.jpg
+[INFO] downloaded: images\bathrooms\00000768.jpg
+[INFO] downloaded: images\bathrooms\00000769.jpg
+[INFO] downloaded: images\bathrooms\00000770.jpg
+[INFO] downloaded: images\bathrooms\00000771.jpg
+[INFO] downloaded: images\bathrooms\00000772.jpg
+[INFO] downloaded: images\bathrooms\00000773.jpg
+[INFO] downloaded: images\bathrooms\00000774.jpg
+[INFO] downloaded: images\bathrooms\00000775.jpg
+[INFO] downloaded: images\bathrooms\00000776.jpg
+[INFO] downloaded: images\bathrooms\00000777.jpg
+[INFO] downloaded: images\bathrooms\00000778.jpg
+[INFO] downloaded: images\bathrooms\00000779.jpg
+[INFO] downloaded: images\bathrooms\00000780.jpg
+[INFO] downloaded: images\bathrooms\00000781.jpg
+[INFO] downloaded: images\bathrooms\00000782.jpg
+[INFO] downloaded: images\bathrooms\00000783.jpg
+[INFO] downloaded: images\bathrooms\00000784.jpg
+[INFO] downloaded: images\bathrooms\00000785.jpg
+[INFO] downloaded: images\bathrooms\00000786.jpg
+[INFO] downloaded: images\bathrooms\00000787.jpg
+[INFO] downloaded: images\bathrooms\00000788.jpg
+[INFO] downloaded: images\bathrooms\00000789.jpg
+[INFO] downloaded: images\bathrooms\00000790.jpg
+[INFO] downloaded: images\bathrooms\00000791.jpg
+[INFO] downloaded: images\bathrooms\00000792.jpg
+[INFO] downloaded: images\bathrooms\00000793.jpg
+[INFO] downloaded: images\bathrooms\00000794.jpg
+[INFO] downloaded: images\bathrooms\00000795.jpg
+[INFO] downloaded: images\bathrooms\00000796.jpg
+[INFO] downloaded: images\bathrooms\00000797.jpg
+[INFO] downloaded: images\bathrooms\00000798.jpg
+[INFO] downloaded: images\bathrooms\00000799.jpg
+[INFO] downloaded: images\bathrooms\00000800.jpg
+[INFO] downloaded: images\bathrooms\00000801.jpg
+[INFO] downloaded: images\bathrooms\00000802.jpg
+[INFO] downloaded: images\bathrooms\00000803.jpg
+[INFO] downloaded: images\bathrooms\00000804.jpg
+[INFO] downloaded: images\bathrooms\00000805.jpg
+[INFO] downloaded: images\bathrooms\00000806.jpg
+[INFO] downloaded: images\bathrooms\00000807.jpg
+[INFO] downloaded: images\bathrooms\00000808.jpg
+[INFO] downloaded: images\bathrooms\00000809.jpg
+[INFO] downloaded: images\bathrooms\00000810.jpg
+[INFO] downloaded: images\bathrooms\00000811.jpg
+[INFO] downloaded: images\bathrooms\00000812.jpg
+[INFO] downloaded: images\bathrooms\00000813.jpg
+[INFO] downloaded: images\bathrooms\00000814.jpg
+[INFO] downloaded: images\bathrooms\00000815.jpg
+[INFO] downloaded: images\bathrooms\00000816.jpg
+[INFO] downloaded: images\bathrooms\00000817.jpg
+[INFO] downloaded: images\bathrooms\00000818.jpg
+[INFO] downloaded: images\bathrooms\00000819.jpg
+[INFO] downloaded: images\bathrooms\00000820.jpg
+[INFO] downloaded: images\bathrooms\00000821.jpg
+[INFO] downloaded: images\bathrooms\00000822.jpg
+[INFO] downloaded: images\bathrooms\00000823.jpg
+[INFO] downloaded: images\bathrooms\00000824.jpg
+[INFO] downloaded: images\bathrooms\00000825.jpg
+[INFO] downloaded: images\bathrooms\00000826.jpg
+[INFO] downloaded: images\bathrooms\00000827.jpg
+[INFO] downloaded: images\bathrooms\00000828.jpg
+[INFO] downloaded: images\bathrooms\00000829.jpg
+[INFO] downloaded: images\bathrooms\00000830.jpg
+[INFO] downloaded: images\bathrooms\00000831.jpg
+[INFO] downloaded: images\bathrooms\00000832.jpg
+[INFO] downloaded: images\bathrooms\00000833.jpg
+[INFO] downloaded: images\bathrooms\00000834.jpg
+[INFO] downloaded: images\bathrooms\00000835.jpg
+[INFO] downloaded: images\bathrooms\00000836.jpg
+[INFO] downloaded: images\bathrooms\00000837.jpg
+[INFO] downloaded: images\bathrooms\00000838.jpg
+[INFO] downloaded: images\bathrooms\00000839.jpg
+[INFO] downloaded: images\bathrooms\00000840.jpg
+[INFO] downloaded: images\bathrooms\00000841.jpg
+[INFO] downloaded: images\bathrooms\00000842.jpg
+[INFO] downloaded: images\bathrooms\00000843.jpg
+[INFO] downloaded: images\bathrooms\00000844.jpg
+[INFO] downloaded: images\bathrooms\00000845.jpg
+[INFO] downloaded: images\bathrooms\00000846.jpg
+[INFO] downloaded: images\bathrooms\00000847.jpg
+[INFO] downloaded: images\bathrooms\00000848.jpg
+[INFO] downloaded: images\bathrooms\00000849.jpg
+[INFO] downloaded: images\bathrooms\00000850.jpg
+[INFO] downloaded: images\bathrooms\00000851.jpg
+[INFO] downloaded: images\bathrooms\00000852.jpg
+[INFO] downloaded: images\bathrooms\00000853.jpg
+[INFO] downloaded: images\bathrooms\00000854.jpg
+[INFO] downloaded: images\bathrooms\00000855.jpg
+[INFO] downloaded: images\bathrooms\00000856.jpg
+[INFO] downloaded: images\bathrooms\00000857.jpg
+[INFO] downloaded: images\bathrooms\00000858.jpg
+[INFO] downloaded: images\bathrooms\00000859.jpg
+[INFO] downloaded: images\bathrooms\00000860.jpg
+[INFO] downloaded: images\bathrooms\00000861.jpg
+[INFO] downloaded: images\bathrooms\00000862.jpg
+[INFO] downloaded: images\bathrooms\00000863.jpg
+[INFO] downloaded: images\bathrooms\00000864.jpg
+[INFO] downloaded: images\bathrooms\00000865.jpg
+[INFO] downloaded: images\bathrooms\00000866.jpg
+[INFO] downloaded: images\bathrooms\00000867.jpg
+[INFO] downloaded: images\bathrooms\00000868.jpg
+[INFO] downloaded: images\bathrooms\00000869.jpg
+[INFO] downloaded: images\bathrooms\00000870.jpg
+[INFO] downloaded: images\bathrooms\00000871.jpg
+[INFO] downloaded: images\bathrooms\00000872.jpg
+[INFO] downloaded: images\bathrooms\00000873.jpg
+[INFO] downloaded: images\bathrooms\00000874.jpg
+[INFO] downloaded: images\bathrooms\00000875.jpg
+[INFO] downloaded: images\bathrooms\00000876.jpg
+[INFO] downloaded: images\bathrooms\00000877.jpg
+[INFO] downloaded: images\bathrooms\00000878.jpg
+[INFO] downloaded: images\bathrooms\00000879.jpg
+[INFO] downloaded: images\bathrooms\00000880.jpg
+[INFO] downloaded: images\bathrooms\00000881.jpg
+None
+[INFO] deleting images\bathrooms\00000012.jpg
+None
+[INFO] deleting images\bathrooms\00000013.jpg
+None
+[INFO] deleting images\bathrooms\00000031.jpg
+None
+[INFO] deleting images\bathrooms\00000045.jpg
+None
+[INFO] deleting images\bathrooms\00000054.jpg
+None
+[INFO] deleting images\bathrooms\00000056.jpg
+None
+[INFO] deleting images\bathrooms\00000057.jpg
+None
+[INFO] deleting images\bathrooms\00000058.jpg
+None
+[INFO] deleting images\bathrooms\00000060.jpg
+None
+[INFO] deleting images\bathrooms\00000069.jpg
+None
+[INFO] deleting images\bathrooms\00000077.jpg
+None
+[INFO] deleting images\bathrooms\00000083.jpg
+None
+[INFO] deleting images\bathrooms\00000124.jpg
+None
+[INFO] deleting images\bathrooms\00000129.jpg
+None
+[INFO] deleting images\bathrooms\00000140.jpg
+None
+[INFO] deleting images\bathrooms\00000152.jpg
+None
+[INFO] deleting images\bathrooms\00000153.jpg
+None
+[INFO] deleting images\bathrooms\00000156.jpg
+None
+[INFO] deleting images\bathrooms\00000157.jpg
+None
+[INFO] deleting images\bathrooms\00000158.jpg
+None
+[INFO] deleting images\bathrooms\00000176.jpg
+None
+[INFO] deleting images\bathrooms\00000185.jpg
+None
+[INFO] deleting images\bathrooms\00000198.jpg
+None
+[INFO] deleting images\bathrooms\00000221.jpg
+None
+[INFO] deleting images\bathrooms\00000222.jpg
+None
+[INFO] deleting images\bathrooms\00000233.jpg
+None
+[INFO] deleting images\bathrooms\00000235.jpg
+None
+[INFO] deleting images\bathrooms\00000237.jpg
+None
+[INFO] deleting images\bathrooms\00000254.jpg
+None
+[INFO] deleting images\bathrooms\00000260.jpg
+None
+[INFO] deleting images\bathrooms\00000272.jpg
+None
+[INFO] deleting images\bathrooms\00000277.jpg
+None
+[INFO] deleting images\bathrooms\00000284.jpg
+None
+[INFO] deleting images\bathrooms\00000290.jpg
+None
+[INFO] deleting images\bathrooms\00000328.jpg
+None
+[INFO] deleting images\bathrooms\00000333.jpg
+None
+[INFO] deleting images\bathrooms\00000347.jpg
+None
+[INFO] deleting images\bathrooms\00000358.jpg
+None
+[INFO] deleting images\bathrooms\00000364.jpg
+None
+[INFO] deleting images\bathrooms\00000366.jpg
+None
+[INFO] deleting images\bathrooms\00000372.jpg
+None
+[INFO] deleting images\bathrooms\00000376.jpg
+None
+[INFO] deleting images\bathrooms\00000380.jpg
+None
+[INFO] deleting images\bathrooms\00000394.jpg
+None
+[INFO] deleting images\bathrooms\00000395.jpg
+None
+[INFO] deleting images\bathrooms\00000400.jpg
+None
+[INFO] deleting images\bathrooms\00000414.jpg
+None
+[INFO] deleting images\bathrooms\00000459.jpg
+None
+[INFO] deleting images\bathrooms\00000462.jpg
+None
+[INFO] deleting images\bathrooms\00000489.jpg
+None
+[INFO] deleting images\bathrooms\00000503.jpg
+None
+[INFO] deleting images\bathrooms\00000504.jpg
+None
+[INFO] deleting images\bathrooms\00000514.jpg
+None
+[INFO] deleting images\bathrooms\00000517.jpg
+None
+[INFO] deleting images\bathrooms\00000531.jpg
+None
+[INFO] deleting images\bathrooms\00000537.jpg
+None
+[INFO] deleting images\bathrooms\00000554.jpg
+None
+[INFO] deleting images\bathrooms\00000562.jpg
+None
+[INFO] deleting images\bathrooms\00000570.jpg
+None
+[INFO] deleting images\bathrooms\00000581.jpg
+None
+[INFO] deleting images\bathrooms\00000587.jpg
+None
+[INFO] deleting images\bathrooms\00000643.jpg
+None
+[INFO] deleting images\bathrooms\00000647.jpg
+None
+[INFO] deleting images\bathrooms\00000672.jpg
+None
+[INFO] deleting images\bathrooms\00000675.jpg
+None
+[INFO] deleting images\bathrooms\00000716.jpg
+None
+[INFO] deleting images\bathrooms\00000728.jpg
+None
+[INFO] deleting images\bathrooms\00000734.jpg
+None
+[INFO] deleting images\bathrooms\00000752.jpg
+None
+[INFO] deleting images\bathrooms\00000758.jpg
+None
+[INFO] deleting images\bathrooms\00000759.jpg
+None
+[INFO] deleting images\bathrooms\00000802.jpg
+None
+[INFO] deleting images\bathrooms\00000820.jpg
+None
+[INFO] deleting images\bathrooms\00000824.jpg
+None
+[INFO] deleting images\bathrooms\00000851.jpg
+None
+[INFO] deleting images\bathrooms\00000863.jpg
+None
+[INFO] deleting images\bathrooms\00000873.jpg
+
+Process finished with exit code 0

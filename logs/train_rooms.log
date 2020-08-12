@@ -1,0 +1,321 @@
+/Users/Shared/PyCharmProjects/venv/deeplearning/bin/python "/Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pydev/pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 60002 --file /Users/Shared/PyCharmProjects/kc-tfb/train.py
+pydev debugger: process 12500 is connecting
+
+Connected to pydev debugger (build 202.6397.98)
+
+
+[INFO] processing ----------> bathrooms...
+2020-07-30 20:37:18.790880: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-07-30 20:37:18.807987: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7fbb4c3c1c30 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-07-30 20:37:18.808015: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+[INFO] training simple network for bathrooms...
+Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense (Dense)                (None, 256)               25690368  
+_________________________________________________________________
+dense_1 (Dense)              (None, 16)                4112      
+_________________________________________________________________
+dense_2 (Dense)              (None, 2)                 34        
+=================================================================
+Total params: 25,694,514
+Trainable params: 25,694,514
+Non-trainable params: 0
+_________________________________________________________________
+Epoch 1/25
+31/31 [==============================] - 21s 682ms/step - loss: 0.3701 - accuracy: 0.8790 - val_loss: 0.1309 - val_accuracy: 0.9219
+Epoch 2/25
+31/31 [==============================] - 20s 660ms/step - loss: 0.0351 - accuracy: 0.9899 - val_loss: 0.1029 - val_accuracy: 0.9583
+Epoch 3/25
+31/31 [==============================] - 20s 660ms/step - loss: 0.0149 - accuracy: 0.9950 - val_loss: 0.1020 - val_accuracy: 0.9635
+Epoch 4/25
+31/31 [==============================] - 20s 661ms/step - loss: 0.0059 - accuracy: 0.9980 - val_loss: 0.1195 - val_accuracy: 0.9531
+Epoch 5/25
+31/31 [==============================] - 21s 666ms/step - loss: 0.0041 - accuracy: 1.0000 - val_loss: 0.1339 - val_accuracy: 0.9531
+Epoch 6/25
+31/31 [==============================] - 21s 663ms/step - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.1145 - val_accuracy: 0.9531
+Epoch 7/25
+31/31 [==============================] - 21s 667ms/step - loss: 4.0867e-04 - accuracy: 1.0000 - val_loss: 0.1309 - val_accuracy: 0.9583
+Epoch 8/25
+31/31 [==============================] - 21s 667ms/step - loss: 2.7491e-04 - accuracy: 1.0000 - val_loss: 0.1337 - val_accuracy: 0.9583
+Epoch 9/25
+31/31 [==============================] - 21s 670ms/step - loss: 2.2930e-04 - accuracy: 1.0000 - val_loss: 0.1377 - val_accuracy: 0.9583
+Epoch 10/25
+31/31 [==============================] - 21s 675ms/step - loss: 1.9896e-04 - accuracy: 1.0000 - val_loss: 0.1411 - val_accuracy: 0.9583
+Epoch 11/25
+31/31 [==============================] - 21s 677ms/step - loss: 1.7936e-04 - accuracy: 1.0000 - val_loss: 0.1442 - val_accuracy: 0.9583
+Epoch 12/25
+31/31 [==============================] - 21s 676ms/step - loss: 1.6369e-04 - accuracy: 1.0000 - val_loss: 0.1472 - val_accuracy: 0.9583
+Epoch 13/25
+31/31 [==============================] - 21s 675ms/step - loss: 1.4895e-04 - accuracy: 1.0000 - val_loss: 0.1495 - val_accuracy: 0.9583
+Epoch 14/25
+31/31 [==============================] - 21s 679ms/step - loss: 1.3973e-04 - accuracy: 1.0000 - val_loss: 0.1512 - val_accuracy: 0.9583
+Epoch 15/25
+31/31 [==============================] - 21s 685ms/step - loss: 1.3014e-04 - accuracy: 1.0000 - val_loss: 0.1529 - val_accuracy: 0.9531
+Epoch 16/25
+31/31 [==============================] - 21s 692ms/step - loss: 1.2145e-04 - accuracy: 1.0000 - val_loss: 0.1543 - val_accuracy: 0.9531
+Epoch 17/25
+31/31 [==============================] - 21s 691ms/step - loss: 1.1498e-04 - accuracy: 1.0000 - val_loss: 0.1562 - val_accuracy: 0.9531
+Epoch 18/25
+31/31 [==============================] - 21s 690ms/step - loss: 1.0269e-04 - accuracy: 1.0000 - val_loss: 0.1583 - val_accuracy: 0.9531
+Epoch 19/25
+31/31 [==============================] - 21s 693ms/step - loss: 9.5848e-05 - accuracy: 1.0000 - val_loss: 0.1606 - val_accuracy: 0.9531
+Epoch 20/25
+31/31 [==============================] - 21s 684ms/step - loss: 8.8934e-05 - accuracy: 1.0000 - val_loss: 0.1618 - val_accuracy: 0.9531
+Epoch 21/25
+31/31 [==============================] - 22s 697ms/step - loss: 8.3588e-05 - accuracy: 1.0000 - val_loss: 0.1623 - val_accuracy: 0.9531
+Epoch 22/25
+31/31 [==============================] - 21s 693ms/step - loss: 7.9599e-05 - accuracy: 1.0000 - val_loss: 0.1630 - val_accuracy: 0.9531
+Epoch 23/25
+31/31 [==============================] - 22s 698ms/step - loss: 7.2776e-05 - accuracy: 1.0000 - val_loss: 0.1637 - val_accuracy: 0.9531
+Epoch 24/25
+31/31 [==============================] - 22s 694ms/step - loss: 7.1338e-05 - accuracy: 1.0000 - val_loss: 0.1644 - val_accuracy: 0.9531
+Epoch 25/25
+31/31 [==============================] - 21s 693ms/step - loss: 6.8519e-05 - accuracy: 1.0000 - val_loss: 0.1650 - val_accuracy: 0.9531
+[INFO] evaluating network...
+               precision    recall  f1-score   support
+
+    bathrooms       0.95      1.00      0.97       106
+non_bathrooms       1.00      0.94      0.97       106
+
+     accuracy                           0.97       212
+    macro avg       0.97      0.97      0.97       212
+ weighted avg       0.97      0.97      0.97       212
+
+
+
+[INFO] processing ----------> bedrooms...
+[INFO] training simple network for bedrooms...
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_3 (Dense)              (None, 256)               25690368  
+_________________________________________________________________
+dense_4 (Dense)              (None, 16)                4112      
+_________________________________________________________________
+dense_5 (Dense)              (None, 2)                 34        
+=================================================================
+Total params: 25,694,514
+Trainable params: 25,694,514
+Non-trainable params: 0
+_________________________________________________________________
+Epoch 1/25
+31/31 [==============================] - 21s 670ms/step - loss: 0.4214 - accuracy: 0.8659 - val_loss: 0.2365 - val_accuracy: 0.9062
+Epoch 2/25
+31/31 [==============================] - 20s 659ms/step - loss: 0.1050 - accuracy: 0.9627 - val_loss: 0.1729 - val_accuracy: 0.9271
+Epoch 3/25
+31/31 [==============================] - 21s 682ms/step - loss: 0.0436 - accuracy: 0.9899 - val_loss: 0.2458 - val_accuracy: 0.9167
+Epoch 4/25
+31/31 [==============================] - 22s 709ms/step - loss: 0.0142 - accuracy: 0.9970 - val_loss: 0.1758 - val_accuracy: 0.9427
+Epoch 5/25
+31/31 [==============================] - 23s 731ms/step - loss: 0.0061 - accuracy: 0.9990 - val_loss: 0.1778 - val_accuracy: 0.9531
+Epoch 6/25
+31/31 [==============================] - 21s 682ms/step - loss: 0.0047 - accuracy: 1.0000 - val_loss: 0.2223 - val_accuracy: 0.9375
+Epoch 7/25
+31/31 [==============================] - 21s 665ms/step - loss: 0.0028 - accuracy: 1.0000 - val_loss: 0.2441 - val_accuracy: 0.9323
+Epoch 8/25
+31/31 [==============================] - 21s 666ms/step - loss: 0.0019 - accuracy: 0.9990 - val_loss: 0.2375 - val_accuracy: 0.9323
+Epoch 9/25
+31/31 [==============================] - 21s 667ms/step - loss: 0.0015 - accuracy: 1.0000 - val_loss: 0.2518 - val_accuracy: 0.9323
+Epoch 10/25
+31/31 [==============================] - 21s 675ms/step - loss: 0.0014 - accuracy: 1.0000 - val_loss: 0.2519 - val_accuracy: 0.9323
+Epoch 11/25
+31/31 [==============================] - 22s 705ms/step - loss: 0.0013 - accuracy: 1.0000 - val_loss: 0.2550 - val_accuracy: 0.9323
+Epoch 12/25
+31/31 [==============================] - 21s 689ms/step - loss: 0.0012 - accuracy: 1.0000 - val_loss: 0.2569 - val_accuracy: 0.9323
+Epoch 13/25
+31/31 [==============================] - 21s 680ms/step - loss: 0.0012 - accuracy: 1.0000 - val_loss: 0.2589 - val_accuracy: 0.9323
+Epoch 14/25
+31/31 [==============================] - 21s 684ms/step - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.2614 - val_accuracy: 0.9323
+Epoch 15/25
+31/31 [==============================] - 22s 701ms/step - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.2638 - val_accuracy: 0.9323
+Epoch 16/25
+31/31 [==============================] - 22s 710ms/step - loss: 0.0010 - accuracy: 1.0000 - val_loss: 0.2649 - val_accuracy: 0.9323
+Epoch 17/25
+31/31 [==============================] - 22s 719ms/step - loss: 0.0010 - accuracy: 1.0000 - val_loss: 0.2667 - val_accuracy: 0.9323
+Epoch 18/25
+31/31 [==============================] - 22s 717ms/step - loss: 9.9303e-04 - accuracy: 1.0000 - val_loss: 0.2630 - val_accuracy: 0.9323
+Epoch 19/25
+31/31 [==============================] - 23s 739ms/step - loss: 3.8746e-04 - accuracy: 1.0000 - val_loss: 0.2713 - val_accuracy: 0.9323
+Epoch 20/25
+31/31 [==============================] - 22s 723ms/step - loss: 3.2840e-04 - accuracy: 1.0000 - val_loss: 0.2740 - val_accuracy: 0.9323
+Epoch 21/25
+31/31 [==============================] - 22s 713ms/step - loss: 2.9576e-04 - accuracy: 1.0000 - val_loss: 0.2750 - val_accuracy: 0.9323
+Epoch 22/25
+31/31 [==============================] - 22s 721ms/step - loss: 2.6895e-04 - accuracy: 1.0000 - val_loss: 0.2770 - val_accuracy: 0.9323
+Epoch 23/25
+31/31 [==============================] - 24s 782ms/step - loss: 2.5012e-04 - accuracy: 1.0000 - val_loss: 0.2785 - val_accuracy: 0.9323
+Epoch 24/25
+31/31 [==============================] - 23s 748ms/step - loss: 2.3335e-04 - accuracy: 1.0000 - val_loss: 0.2794 - val_accuracy: 0.9323
+Epoch 25/25
+31/31 [==============================] - 22s 718ms/step - loss: 2.2004e-04 - accuracy: 1.0000 - val_loss: 0.2809 - val_accuracy: 0.9323
+[INFO] evaluating network...
+              precision    recall  f1-score   support
+
+    bedrooms       0.93      0.97      0.95       106
+non_bedrooms       0.97      0.92      0.95       106
+
+    accuracy                           0.95       212
+   macro avg       0.95      0.95      0.95       212
+weighted avg       0.95      0.95      0.95       212
+
+
+
+[INFO] processing ----------> kitchens...
+[INFO] training simple network for kitchens...
+Model: "sequential_2"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_6 (Dense)              (None, 256)               25690368  
+_________________________________________________________________
+dense_7 (Dense)              (None, 16)                4112      
+_________________________________________________________________
+dense_8 (Dense)              (None, 2)                 34        
+=================================================================
+Total params: 25,694,514
+Trainable params: 25,694,514
+Non-trainable params: 0
+_________________________________________________________________
+Epoch 1/25
+31/31 [==============================] - 21s 666ms/step - loss: 0.2483 - accuracy: 0.8992 - val_loss: 0.1236 - val_accuracy: 0.9427
+Epoch 2/25
+31/31 [==============================] - 21s 666ms/step - loss: 0.0235 - accuracy: 0.9929 - val_loss: 0.1420 - val_accuracy: 0.9479
+Epoch 3/25
+31/31 [==============================] - 20s 655ms/step - loss: 0.0042 - accuracy: 1.0000 - val_loss: 0.0761 - val_accuracy: 0.9688
+Epoch 4/25
+31/31 [==============================] - 20s 659ms/step - loss: 0.0023 - accuracy: 1.0000 - val_loss: 0.1028 - val_accuracy: 0.9635
+Epoch 5/25
+31/31 [==============================] - 21s 663ms/step - loss: 0.0012 - accuracy: 1.0000 - val_loss: 0.1229 - val_accuracy: 0.9583
+Epoch 6/25
+31/31 [==============================] - 20s 661ms/step - loss: 7.5406e-04 - accuracy: 1.0000 - val_loss: 0.1246 - val_accuracy: 0.9583
+Epoch 7/25
+31/31 [==============================] - 21s 666ms/step - loss: 6.2556e-04 - accuracy: 1.0000 - val_loss: 0.1242 - val_accuracy: 0.9583
+Epoch 8/25
+31/31 [==============================] - 21s 672ms/step - loss: 5.4528e-04 - accuracy: 1.0000 - val_loss: 0.1254 - val_accuracy: 0.9583
+Epoch 9/25
+31/31 [==============================] - 21s 671ms/step - loss: 4.8383e-04 - accuracy: 1.0000 - val_loss: 0.1270 - val_accuracy: 0.9583
+Epoch 10/25
+31/31 [==============================] - 21s 673ms/step - loss: 4.3061e-04 - accuracy: 1.0000 - val_loss: 0.1281 - val_accuracy: 0.9583
+Epoch 11/25
+31/31 [==============================] - 21s 675ms/step - loss: 3.9328e-04 - accuracy: 1.0000 - val_loss: 0.1290 - val_accuracy: 0.9583
+Epoch 12/25
+31/31 [==============================] - 21s 678ms/step - loss: 3.6211e-04 - accuracy: 1.0000 - val_loss: 0.1301 - val_accuracy: 0.9583
+Epoch 13/25
+31/31 [==============================] - 21s 680ms/step - loss: 3.2919e-04 - accuracy: 1.0000 - val_loss: 0.1280 - val_accuracy: 0.9583
+Epoch 14/25
+31/31 [==============================] - 21s 678ms/step - loss: 2.5842e-04 - accuracy: 1.0000 - val_loss: 0.1294 - val_accuracy: 0.9583
+Epoch 15/25
+31/31 [==============================] - 21s 677ms/step - loss: 2.2524e-04 - accuracy: 1.0000 - val_loss: 0.1314 - val_accuracy: 0.9583
+Epoch 16/25
+31/31 [==============================] - 21s 685ms/step - loss: 2.0332e-04 - accuracy: 1.0000 - val_loss: 0.1329 - val_accuracy: 0.9583
+Epoch 17/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.8187e-04 - accuracy: 1.0000 - val_loss: 0.1343 - val_accuracy: 0.9583
+Epoch 18/25
+31/31 [==============================] - 21s 683ms/step - loss: 1.7322e-04 - accuracy: 1.0000 - val_loss: 0.1353 - val_accuracy: 0.9583
+Epoch 19/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.6146e-04 - accuracy: 1.0000 - val_loss: 0.1359 - val_accuracy: 0.9583
+Epoch 20/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.5242e-04 - accuracy: 1.0000 - val_loss: 0.1366 - val_accuracy: 0.9583
+Epoch 21/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.4316e-04 - accuracy: 1.0000 - val_loss: 0.1361 - val_accuracy: 0.9583
+Epoch 22/25
+31/31 [==============================] - 21s 686ms/step - loss: 1.3840e-04 - accuracy: 1.0000 - val_loss: 0.1370 - val_accuracy: 0.9583
+Epoch 23/25
+31/31 [==============================] - 21s 688ms/step - loss: 1.3130e-04 - accuracy: 1.0000 - val_loss: 0.1379 - val_accuracy: 0.9583
+Epoch 24/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.2397e-04 - accuracy: 1.0000 - val_loss: 0.1385 - val_accuracy: 0.9583
+Epoch 25/25
+31/31 [==============================] - 21s 686ms/step - loss: 1.1895e-04 - accuracy: 1.0000 - val_loss: 0.1382 - val_accuracy: 0.9583
+[INFO] evaluating network...
+              precision    recall  f1-score   support
+
+    kitchens       0.96      0.98      0.97       106
+non_kitchens       0.98      0.96      0.97       106
+
+    accuracy                           0.97       212
+   macro avg       0.97      0.97      0.97       212
+weighted avg       0.97      0.97      0.97       212
+
+
+
+[INFO] processing ----------> livingrooms...
+[INFO] training simple network for livingrooms...
+Model: "sequential_3"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_9 (Dense)              (None, 256)               25690368  
+_________________________________________________________________
+dense_10 (Dense)             (None, 16)                4112      
+_________________________________________________________________
+dense_11 (Dense)             (None, 2)                 34        
+=================================================================
+Total params: 25,694,514
+Trainable params: 25,694,514
+Non-trainable params: 0
+_________________________________________________________________
+Epoch 1/25
+31/31 [==============================] - 22s 705ms/step - loss: 0.3896 - accuracy: 0.8619 - val_loss: 0.1761 - val_accuracy: 0.9323
+Epoch 2/25
+31/31 [==============================] - 21s 686ms/step - loss: 0.0853 - accuracy: 0.9708 - val_loss: 0.1352 - val_accuracy: 0.9635
+Epoch 3/25
+31/31 [==============================] - 21s 671ms/step - loss: 0.0497 - accuracy: 0.9879 - val_loss: 0.1140 - val_accuracy: 0.9479
+Epoch 4/25
+31/31 [==============================] - 21s 686ms/step - loss: 0.0263 - accuracy: 0.9950 - val_loss: 0.0702 - val_accuracy: 0.9688
+Epoch 5/25
+31/31 [==============================] - 21s 673ms/step - loss: 0.0114 - accuracy: 1.0000 - val_loss: 0.1029 - val_accuracy: 0.9531
+Epoch 6/25
+31/31 [==============================] - 21s 673ms/step - loss: 0.0045 - accuracy: 0.9990 - val_loss: 0.0998 - val_accuracy: 0.9583
+Epoch 7/25
+31/31 [==============================] - 21s 668ms/step - loss: 8.8917e-04 - accuracy: 1.0000 - val_loss: 0.0760 - val_accuracy: 0.9740
+Epoch 8/25
+31/31 [==============================] - 21s 674ms/step - loss: 4.2032e-04 - accuracy: 1.0000 - val_loss: 0.0854 - val_accuracy: 0.9635
+Epoch 9/25
+31/31 [==============================] - 21s 671ms/step - loss: 3.6898e-04 - accuracy: 1.0000 - val_loss: 0.0807 - val_accuracy: 0.9688
+Epoch 10/25
+31/31 [==============================] - 21s 675ms/step - loss: 3.2137e-04 - accuracy: 1.0000 - val_loss: 0.0812 - val_accuracy: 0.9688
+Epoch 11/25
+31/31 [==============================] - 21s 678ms/step - loss: 2.9088e-04 - accuracy: 1.0000 - val_loss: 0.0807 - val_accuracy: 0.9688
+Epoch 12/25
+31/31 [==============================] - 21s 675ms/step - loss: 2.5974e-04 - accuracy: 1.0000 - val_loss: 0.0804 - val_accuracy: 0.9688
+Epoch 13/25
+31/31 [==============================] - 21s 676ms/step - loss: 2.4650e-04 - accuracy: 1.0000 - val_loss: 0.0802 - val_accuracy: 0.9688
+Epoch 14/25
+31/31 [==============================] - 21s 678ms/step - loss: 2.2028e-04 - accuracy: 1.0000 - val_loss: 0.0802 - val_accuracy: 0.9688
+Epoch 15/25
+31/31 [==============================] - 21s 682ms/step - loss: 2.1355e-04 - accuracy: 1.0000 - val_loss: 0.0801 - val_accuracy: 0.9688
+Epoch 16/25
+31/31 [==============================] - 21s 688ms/step - loss: 1.9696e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 17/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.9017e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 18/25
+31/31 [==============================] - 21s 681ms/step - loss: 1.7565e-04 - accuracy: 1.0000 - val_loss: 0.0800 - val_accuracy: 0.9688
+Epoch 19/25
+31/31 [==============================] - 21s 683ms/step - loss: 1.6918e-04 - accuracy: 1.0000 - val_loss: 0.0800 - val_accuracy: 0.9688
+Epoch 20/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.5982e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 21/25
+31/31 [==============================] - 21s 686ms/step - loss: 1.5247e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 22/25
+31/31 [==============================] - 21s 684ms/step - loss: 1.4728e-04 - accuracy: 1.0000 - val_loss: 0.0801 - val_accuracy: 0.9688
+Epoch 23/25
+31/31 [==============================] - 21s 691ms/step - loss: 1.4198e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 24/25
+31/31 [==============================] - 21s 687ms/step - loss: 1.3627e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+Epoch 25/25
+31/31 [==============================] - 22s 710ms/step - loss: 1.2973e-04 - accuracy: 1.0000 - val_loss: 0.0799 - val_accuracy: 0.9688
+[INFO] evaluating network...
+                 precision    recall  f1-score   support
+
+    livingrooms       0.92      1.00      0.96       106
+non_livingrooms       1.00      0.92      0.96       106
+
+       accuracy                           0.96       212
+      macro avg       0.96      0.96      0.96       212
+   weighted avg       0.96      0.96      0.96       212
+
+
+Process finished with exit code 0
