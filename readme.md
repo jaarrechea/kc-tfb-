@@ -9,6 +9,11 @@ esta imagen, perfectamente estructurada porque cada cuadrante tiene siempre el m
 en todas las viviendas, se supone que los resultados mejorarán respecto a los obtenido en las distintas
 prácticas que se desarrollaron en diversos módulos del Bootcamp.
 
+Ejemplo de imagen mosaico estructurada:
+
+![Imagen mosaico estructurada](docs/03826572.jpg)
+
+
 Para poder realizar esta imagen mosaico es necesario previamente crear modelos que detecten distintos
 tipos de estancias. Para ello, a su vez, es necesario recopilar gran cantidad de imágenes de cada
 tipo de estancia que queremos detectar, ya que las necesitamos para entrenar nuestros modelos.
@@ -16,7 +21,7 @@ tipo de estancia que queremos detectar, ya que las necesitamos para entrenar nue
 En el documento TrabajoFinalBootcamp-JoséÁngelArrechea.pdf, situado bajo la carpeta docs, se explica
 todo el proceso llevado a cabo.
 
-Asimimso, también se realizó un análisis de sentimiento de las reviews asociadas a cada vivienda. 
+Asimismo, se realizó un análisis de sentimiento de las reviews asociadas a cada vivienda. 
 El resultado de este estudio se añadió como una características más de la vivienda, que fue utilizado
 para los modelos de clasificación y predicción de precios.
 
